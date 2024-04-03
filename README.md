@@ -24,13 +24,13 @@ This project introduces a novel security system that integrates gesture and rhyt
 3. Connect the Arduino Nano 33 BLE Sense to your computer and upload the provided sketch.
 
 ## Usage
-To use the security system, perform a gesture or enter a PIN on the keypad. The system will analyze the input in real-time to authenticate access based on the trained machine learning model.
+To use the security system, perform a gesture or enter a PIN on the keypad. The system will analyze the input in real-time to authenticate access based on the trained machine-learning model.
 
 ## Contributing
 We welcome contributions from the community, whether it's improving the code, addressing issues, or adding new features. Please create a pull request or open an issue to discuss your ideas!
 
-## License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+## DEMO
+https://drive.google.com/file/d/1NdiChjM--mscFrfm1GLwdCWAmSlvJz8P/view?usp=sharing
 
 ## Acknowledgments
 - Association for the Advancement of Artificial Intelligence (www.aaai.org) for supporting this research.
